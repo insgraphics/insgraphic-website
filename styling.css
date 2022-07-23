@@ -1,0 +1,18 @@
+table th {
+width: 300px;
+
+
+text-align: left;
+background-color: black;
+color: white;
+padding: 4px top 4px right;
+
+}
+
+table td{
+
+border:0cm solid darkblue;
+
+padding: 4px 8px;
+
+}
